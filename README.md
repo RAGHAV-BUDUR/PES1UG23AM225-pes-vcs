@@ -121,20 +121,47 @@ The repository is corrupt: the commit object points to blobs that no longer exis
 
 ---
 
-## What This Project Implements
+SCREENSHOTS
+PHASE 1
+1a
+<img width="1279" height="378" alt="1a" src="https://github.com/user-attachments/assets/553a31d6-7ad8-45e9-9767-34a96a56d934" />
+1b
+<img width="1185" height="133" alt="1b" src="https://github.com/user-attachments/assets/53712992-a150-43fc-9ed3-6bdf79f2c9d5" />
+PHASE 2
+2a
 
-| Component | Description |
-|---|---|
-| Content-addressable storage | Objects stored and retrieved by SHA hash |
-| Tree-based snapshots | Directory structure encoded as tree objects |
-| Commit history | Linked list of commits via parent pointers |
-| Index staging | Two-stage add-then-commit workflow |
-| Reference tracking | `HEAD` and branch refs under `.pes/refs/heads/` |
+# Buildin<img width="1011" height="192" alt="2a" src="https://github.com/user-attachments/assets/72c9046f-e4da-4144-a9c2-64fe78282708" />
+2b
+<img width="1438" height="196" alt="2b" src="https://github.com/user-attachments/assets/f018c7ba-b182-4be4-b0a1-e6a91020480b" />
+PHASE 3
+3a
+<img width="717" height="373" alt="3a " src="https://github.com/user-attachments/assets/172cb5e2-dad1-4d91-892f-1204de186cf0" />
+3b
+<img width="736" height="51" alt="3b" src="https://github.com/user-attachments/assets/a2fece8f-60f4-4f52-82ac-acb7dafea8af" />
+PHASE 4
+4a
+<img width="853" height="403" alt="4a" src="https://github.com/user-attachments/assets/1a242400-18fd-41ee-bada-414012ac29a4" />
+4b
+<img width="771" height="223" alt="4b" src="https://github.com/user-attachments/assets/c2d24862-e932-4a12-8e77-d4ed1146d94d" />
+4c
+<img width="824" height="404" alt="4c" src="https://github.com/user-attachments/assets/bdd9cef8-ce35-48b8-867d-6e2f85ea052c" />
 
-This project demonstrates how Git works internally, using only filesystem primitives — no external VCS libraries.
 
 
-# Building PES-VCS — A Version Control System from Scratch
+
+
+
+
+
+
+
+
+
+
+
+
+
+g PES-VCS — A Version Control System from Scratch
 
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
