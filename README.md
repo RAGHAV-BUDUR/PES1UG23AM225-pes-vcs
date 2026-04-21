@@ -140,24 +140,14 @@ PHASE 3
 <img width="736" height="51" alt="3b" src="https://github.com/user-attachments/assets/a2fece8f-60f4-4f52-82ac-acb7dafea8af" />
 PHASE 4
 4a
-<img width="853" height="403" alt="4a" src="https://github.com/user-attachments/assets/1a242400-18fd-41ee-bada-414012ac29a4" />
+<img width="572" height="275" alt="4a" src="https://github.com/user-attachments/assets/f185dfed-e0eb-43d1-aece-896fb163ff86" />
+
 4b
-<img width="771" height="223" alt="4b" src="https://github.com/user-attachments/assets/c2d24862-e932-4a12-8e77-d4ed1146d94d" />
+<img width="651" height="188" alt="4b" src="https://github.com/user-attachments/assets/8a0df818-800c-4ce8-8e0a-ef266f15a130" />
+
 4c
-<img width="824" height="404" alt="4c" src="https://github.com/user-attachments/assets/bdd9cef8-ce35-48b8-867d-6e2f85ea052c" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="601" height="311" alt="4c" src="https://github.com/user-attachments/assets/8a694220-b5f4-4444-ab08-658c5e46988b" />
 
 
 
